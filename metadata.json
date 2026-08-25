@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Estoque - Salgados Congelados",
+  "description": "Sistema completo e profissional de gestão de estoque, controle de lotes FEFO, validade e apontamento de produção em 3 etapas para fábrica de salgados congelados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
